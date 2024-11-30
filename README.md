@@ -1,2 +1,4 @@
 # Lucifer
-Welcome .&lt;br> This is my Git Repository 
+Welcome 
+<br> This is my Git Repository 
+<br> Author -- Lucifer 
